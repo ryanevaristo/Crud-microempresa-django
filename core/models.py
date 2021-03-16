@@ -38,7 +38,7 @@ class Empresa(models.Model):
 
     EMPRESA_CHOICE = [
         ('EMC', "Empresa Com CNPJ"),
-        ('PRD', "Produtor Rural DAP")
+        ('PRD', "Produtor Rural DAP.")
     ]
 
     SETOR_CHOICE = [
